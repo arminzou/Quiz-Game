@@ -25,4 +25,7 @@ c) correct answer (I would use a number for this)
 
 9. Track the user's score. So each time an answer is correct, add 1 point to the score (Use closure technique).
 
-10. Display the score in the console. 
+10. Display the score in the console.
+
+## How To Play:
+Simply Open up index.html file
